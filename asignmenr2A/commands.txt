@@ -1,0 +1,9 @@
+steps add file on git.
+
+1.git clone https://github.com/vidyakekan/wad_practicaal.git
+2.cd wad_practicaal
+3.git status
+4. git add .
+5. git status
+6.git commit -m 'message'
+7. git push https://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@github.com/vidyakeka
